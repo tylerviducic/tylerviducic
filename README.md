@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, my name is Tyler Viducic. Welcome to my GitHub profile
+Contact me:
+✉️ tyler.viducic@gmail.com
 
-<!--
-**tylerviducic/tylerviducic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am graduating soon and seeking emplyment opportunities in physics or data science**
 
-Here are some ideas to get you started:
+#### About me:
+🔭 I am a Ph.D. Student at Old Dominion University studying the decay of the $f1(1285) \rightarrow KK\pi$ at GlueX in Hall D of Jefferson Lab in Newport News, Virginia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I currently am learning about using deep learning techniques for hockey analysis
+
+⚡️ Languages and Tools:
+
+
