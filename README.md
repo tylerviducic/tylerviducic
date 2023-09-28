@@ -10,5 +10,5 @@ Contact me:
 📚 I currently am learning about using deep learning techniques for hockey analysis
 
 ⚡️ Languages and Tools:
-
+![python](images/png-transparent-python-logo-thumbnail.png)
 
