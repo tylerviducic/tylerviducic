@@ -2,7 +2,7 @@
 Contact me:
 ✉️ tyler.viducic@gmail.com
 
-**I am graduating soon and seeking employment opportunities in data science, quantitative analysis, or physics**
+**I am graduating soon and seeking employment opportunities in quantitative analysis, data science, or physics**
 
 #### About me:
 🔭 I am a Ph.D. Student at Old Dominion University studying the decay of the $f1(1285) \rightarrow KK\pi$ at GlueX in Hall D of Jefferson Lab in Newport News, Virginia
